@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# thrift generated
+thrift_gen/
+thrift_files/js/
+thrift_files/py/

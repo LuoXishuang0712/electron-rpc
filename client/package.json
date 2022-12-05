@@ -1,0 +1,11 @@
+{
+  "name": "electron-rpc-client",
+  "version": "1.0.0",
+  "description": "this is a electron base client, to test nodejs communication over thrift RPC.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "LuoXishuang0712",
+  "license": "MIT"
+}
